@@ -6,9 +6,9 @@ I'm studying Electrical and Computer Engineering @ UT Austin and an incoming Res
 ---
 
 [comment]: <EM spaces are used below for whitespace after emojis. Two spaces are placed at the end of each line to create single spacing.>
-🌱 I’m currently learning about data structures, linear algebra, discrete math, and circuit theory.  
-💻 I'm experienced with `Assembly`, `C`, `C++`, `Java`, and `Python`.
+📚 College Software engineering classes I've taken include Software Design I & II, Algorithms, Embedded Systems, and Computing.  
+📘 Other relevant college classes include Linear Algebra, Discrete Mathematics, Differential Equations, Matrices, Physics I & II, and Technical Communication  
+💻 I'm experienced with `Assembly`, `C`, `C++`, `Java`, and `Python`.  
 ✉️ Reach me at eaorkun@gmail.com or shoot me a message on [LinkedIn](https://www.linkedin.com/in/eaorkun)!  
-🧗‍♂️ I love bouldering - I try to climb as often as I can.
 
-![Ishan's GitHub Contributions](https://github-readme-stats.vercel.app/api?username=eaorkun&show_icons=true&hide_border=true&count_private=true&hide=stars)
+![Eralp's GitHub Contributions](https://github-readme-stats.vercel.app/api?username=eaorkun&show_icons=true&hide_border=true&count_private=true&hide=stars)
