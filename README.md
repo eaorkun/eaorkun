@@ -1,5 +1,5 @@
-# Hi, I'm Ishan. 
-![Profile View Counter](https://komarev.com/ghpvc/?username=ishan0102&color=blue&label=Profile+Views)
+# Hi, I'm Eralp. 
+![Profile View Counter](https://komarev.com/ghpvc/?username=eaorkun&color=blue&label=Profile+Views)
 
 I'm studying Computer Engineering and Business @ UT Austin. I interned at AAK Tele-Science this summer where I created dynamic web pages using Flask and a desktop web app using Electron. I'm also seeking a software engineering internship for 2021.
 
