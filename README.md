@@ -1,7 +1,7 @@
 # Hi, I'm Eralp. 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=eaorkun&color=blue&label=Profile+Views)
 
-I'm studying Electrical and Computer Engineering @ UT Austin. I interned at AAK Tele-Science this summer where I created dynamic web pages using Flask and a desktop web app using Electron. I'm also currently seeking a software engineering internship for Fall 2021.
+I'm studying Electrical and Computer Engineering @ UT Austin and an incoming Research and Development Intern at Trend Micro for this upcoming summer. I'm also currently seeking a software engineering Co-op/Intern position for Fall 2021. I enjoy creating great software and am proficient at low-level through high-level programming languages with general knowledge in computer architecture and memory management. Some of my hobbies include music and rock climbing.
 
 ---
 
