@@ -1,7 +1,7 @@
 # Hi, I'm Eralp. 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=eaorkun&color=blue&label=Profile+Views)
 
-I'm studying Electrical and Computer Engineering @ UT Austin and an incoming Software Engineering Intern at Microsoft for this upcoming summer. I enjoy creating great software and am interested in the fields of Data Science and AI development. Some of my hobbies include performing in the University Orchestra and playing video games online with friends.
+I graduated with an Electrical and Computer Engineering @ UT Austin. I enjoy creating great software and am interested in the fields of Data Science and AI development. Some of my hobbies include performing in the community orchestras and exploring new places in nature.
 
 ---
 
