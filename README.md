@@ -1,7 +1,7 @@
 # Hi, I'm Eralp. 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=eaorkun&color=blue&label=Profile+Views)
 
-I graduated with an Electrical and Computer Engineering @ UT Austin. I enjoy creating great software and am interested in the fields of Data Science and AI development. Some of my hobbies include performing in the community orchestras and exploring new places in nature.
+I graduated with an Electrical and Computer Engineering @ UT Austin in May 2023. I enjoy creating great software and am interested in the fields of Data Science and AI development. Some of my hobbies include performing in the community orchestras and exploring new places in nature.
 
 ---
 
